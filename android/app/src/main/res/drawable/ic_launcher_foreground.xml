@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Adaptive icon foreground: white inner square centred in the 66dp safe zone. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M44,36 L64,36 A8,8 0 0 1 72,44 L72,64 A8,8 0 0 1 64,72 L44,72 A8,8 0 0 1 36,64 L36,44 A8,8 0 0 1 44,36 Z" />
+</vector>

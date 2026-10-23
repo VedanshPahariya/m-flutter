@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Mirrors the Flutter theme (KoraColors) so there is no colour jump
+         between the native launch screen and the first Flutter frame. -->
+    <color name="splash_background">#FAF9F7</color>
+    <color name="brand_accent">#155E63</color>
+    <color name="ic_launcher_background">#155E63</color>
+</resources>
